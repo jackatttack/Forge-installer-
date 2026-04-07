@@ -8,7 +8,7 @@ Usage:
   1. Copy this file to your Pythonista Documents folder
   2. Run it once in Pythonista
   3. Delete this file when done
-  4. Set up your Shortcut — see journal/prompts/forge.md
+  4. Set up your Shortcut — see forge2/onboarding.md
 """
 
 import os
