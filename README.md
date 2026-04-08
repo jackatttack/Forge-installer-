@@ -1,4 +1,4 @@
-Got it. Let me write it directly — no bundle needed for this one, it’s a GitHub file not in your Pythonista project.
+
 
 # Forge2
 
